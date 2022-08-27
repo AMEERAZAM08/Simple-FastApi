@@ -1,0 +1,1 @@
+pip install fastapi celery[redis] uvicorn
